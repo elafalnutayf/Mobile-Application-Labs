@@ -1,6 +1,17 @@
 # Mobile Application Labs
 
-Android lab exercises for the Mobile Application Programming course using Kotlin and Jetpack Compose.
+Android lab assignments for CSC 402 – Mobile Application Programming.
 
-## Completed Labs
-- Lab 03 — Tasks 1, 2, and 3
+## Repository Contents
+
+### Lab 02
+Jetpack Compose exercises covering:
+- Composable UI
+- Row and Column layouts
+- State and recomposition
+- Text input
+- LazyColumn
+- State hoisting
+
+### Lab 03
+Jetpack Compose layout exercises and profile card implementation.
