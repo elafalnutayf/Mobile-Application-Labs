@@ -26,6 +26,11 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             Lab03Theme {
+                setContent {
+                    Lab03Theme {
+                        ProfileScreen()
+                    }
+                }
 
                 Column {
 
